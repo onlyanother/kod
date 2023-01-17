@@ -1,0 +1,1290 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cs" lang="cs">
+<head>
+<title>Kurzovní lístek - kurzy měn, převodník měn | Kurzovnilistek.eu</title>
+<meta content="IE=edge" http-equiv="X-UA-Compatible" />
+<meta content="width=device-width, initial-scale=1, maximum-scale=2.0, user-scalable=yes" name="viewport" />
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<meta name="description" content="Denní kurzovní lístek všech Českých bank, ČNB, Slovenské, Polské, Ukrajinské, Maďarské a Ruské národní banky s archivy kurzů a převodníkem měn. Největší seznam SWIFT a BIC kódů bank, kódy měn a zemí, live kurzy kryptoměn." />
+<meta name="keywords" content="kurzy, kurzovní lístek, czk, euro, převodník měn, IBAN, banky, měna, finance, smenarny" />
+<meta property="og:title" content="Kurzovní lístek - kurzy měn, převodník měn | Kurzovnilistek.eu" />
+<meta property="og:image" content="https://kurzovnilistek.eu/img/fbimage.png" />
+<link rel="previewimage" href="https://kurzovnilistek.eu/img/fbimage.png" />
+<meta property="og:url" content="https://kurzovnilistek.eu" />
+<meta property="og:locale" content="cs_CZ" />
+<meta property="og:site_name" content="kurzovnilistek.eu" />
+<meta property="og:type" content="website" />
+<meta property="og:description" content="Denní kurzovní lístek všech Českých bank, ČNB, Slovenské, Polské, Ukrajinské, Maďarské a Ruské národní banky s archivy kurzů a převodníkem měn. Největší seznam SWIFT a BIC kódů bank, kódy měn a zemí." />
+<meta name="robots" content="index, follow" />
+<meta name="author" content="smile@azet.sk" />
+<link rel="shortcut icon" href="../img/favi.svg" type="img/ico" />
+<link rel="stylesheet" type="text/css" media="all" href="style4.css?t=1673937630" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="apple-touch-icon" sizes="180x180" href="https://kurzovnilistek.eu/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://kurzovnilistek.eu/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://kurzovnilistek.eu/img/favicon-16x16.png">
+<link rel="manifest" href="https://kurzovnilistek.eu/img/site.webmanifest">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap" rel="stylesheet" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PREWHY52X4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-PREWHY52X4');
+</script>
+<script async src="https://fundingchoicesmessages.google.com/i/pub-2529110511079045?ers=1" nonce="4JmLCGMyMzN7ikygZHCARQ"></script><script nonce="4JmLCGMyMzN7ikygZHCARQ">(function() {function signalGooglefcPresent() {if (!window.frames['googlefcPresent']) {if (document.body) {const iframe = document.createElement('iframe'); iframe.style = 'width: 0; height: 0; border: none; z-index: -1000; left: -1000px; top: -1000px;'; iframe.style.display = 'none'; iframe.name = 'googlefcPresent'; document.body.appendChild(iframe);} else {setTimeout(signalGooglefcPresent, 0);}}}signalGooglefcPresent();})();</script>
+<script>(function(){/* Copyright The Closure Library Authors. SPDX-License-Identifier: Apache-2.0 */ 'use strict';var aa=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},ba="function"==typeof Object.create?Object.create:function(a){var b=function(){};b.prototype=a;return new b},k;if("function"==typeof Object.setPrototypeOf)k=Object.setPrototypeOf;else{var m;a:{var ca={a:!0},n={};try{n.__proto__=ca;m=n.a;break a}catch(a){}m=!1}k=m?function(a,b){a.__proto__=b;if(a.__proto__!==b)throw new TypeError(a+" is not extensible");return a}:null} var p=k,q=function(a,b){a.prototype=ba(b.prototype);a.prototype.constructor=a;if(p)p(a,b);else for(var c in b)if("prototype"!=c)if(Object.defineProperties){var d=Object.getOwnPropertyDescriptor(b,c);d&&Object.defineProperty(a,c,d)}else a[c]=b[c];a.v=b.prototype},r=this||self,da=function(){},t=function(a){return a};var u;var w=function(a,b){this.g=b===v?a:""};w.prototype.toString=function(){return this.g+""};var v={},x=function(a){if(void 0===u){var b=null;var c=r.trustedTypes;if(c&&c.createPolicy){try{b=c.createPolicy("goog#html",{createHTML:t,createScript:t,createScriptURL:t})}catch(d){r.console&&r.console.error(d.message)}u=b}else u=b}a=(b=u)?b.createScriptURL(a):a;return new w(a,v)};var A=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^Date.now()).toString(36)};var B={},C=null;var D="function"===typeof Uint8Array;function E(a,b,c){return"object"===typeof a?D&&!Array.isArray(a)&&a instanceof Uint8Array?c(a):F(a,b,c):b(a)}function F(a,b,c){if(Array.isArray(a)){for(var d=Array(a.length),e=0;e<a.length;e++){var f=a[e];null!=f&&(d[e]=E(f,b,c))}Array.isArray(a)&&a.s&&G(d);return d}d={};for(e in a)Object.prototype.hasOwnProperty.call(a,e)&&(f=a[e],null!=f&&(d[e]=E(f,b,c)));return d} function ea(a){return F(a,function(b){return"number"===typeof b?isFinite(b)?b:String(b):b},function(b){var c;void 0===c&&(c=0);if(!C){C={};for(var d="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),e=["+/=","+/","-_=","-_.","-_"],f=0;5>f;f++){var h=d.concat(e[f].split(""));B[f]=h;for(var g=0;g<h.length;g++){var l=h[g];void 0===C[l]&&(C[l]=g)}}}c=B[c];d=Array(Math.floor(b.length/3));e=c[64]||"";for(f=h=0;h<b.length-2;h+=3){var y=b[h],z=b[h+1];l=b[h+2];g=c[y>>2];y=c[(y&3)<< 4|z>>4];z=c[(z&15)<<2|l>>6];l=c[l&63];d[f++]=""+g+y+z+l}g=0;l=e;switch(b.length-h){case 2:g=b[h+1],l=c[(g&15)<<2]||e;case 1:b=b[h],d[f]=""+c[b>>2]+c[(b&3)<<4|g>>4]+l+e}return d.join("")})}var fa={s:{value:!0,configurable:!0}},G=function(a){Array.isArray(a)&&!Object.isFrozen(a)&&Object.defineProperties(a,fa);return a};var H;var J=function(a,b,c){var d=H;H=null;a||(a=d);d=this.constructor.u;a||(a=d?[d]:[]);this.j=d?0:-1;this.h=null;this.g=a;a:{d=this.g.length;a=d-1;if(d&&(d=this.g[a],!(null===d||"object"!=typeof d||Array.isArray(d)||D&&d instanceof Uint8Array))){this.l=a-this.j;this.i=d;break a}void 0!==b&&-1<b?(this.l=Math.max(b,a+1-this.j),this.i=null):this.l=Number.MAX_VALUE}if(c)for(b=0;b<c.length;b++)a=c[b],a<this.l?(a+=this.j,(d=this.g[a])?G(d):this.g[a]=I):(d=this.l+this.j,this.g[d]||(this.i=this.g[d]={}),(d=this.i[a])? G(d):this.i[a]=I)},I=Object.freeze(G([])),K=function(a,b){if(-1===b)return null;if(b<a.l){b+=a.j;var c=a.g[b];return c!==I?c:a.g[b]=G([])}if(a.i)return c=a.i[b],c!==I?c:a.i[b]=G([])},M=function(a,b){var c=L;if(-1===b)return null;a.h||(a.h={});if(!a.h[b]){var d=K(a,b);d&&(a.h[b]=new c(d))}return a.h[b]};J.prototype.toJSON=function(){var a=N(this,!1);return ea(a)}; var N=function(a,b){if(a.h)for(var c in a.h)if(Object.prototype.hasOwnProperty.call(a.h,c)){var d=a.h[c];if(Array.isArray(d))for(var e=0;e<d.length;e++)d[e]&&N(d[e],b);else d&&N(d,b)}return a.g},O=function(a,b){H=b=b?JSON.parse(b):null;a=new a(b);H=null;return a};J.prototype.toString=function(){return N(this,!1).toString()};var P=function(a){J.call(this,a)};q(P,J);function ha(a){var b,c=(a.ownerDocument&&a.ownerDocument.defaultView||window).document,d=null===(b=c.querySelector)||void 0===b?void 0:b.call(c,"script[nonce]");(b=d?d.nonce||d.getAttribute("nonce")||"":"")&&a.setAttribute("nonce",b)};var Q=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},R=function(a){this.g=a||r.document||document};R.prototype.appendChild=function(a,b){a.appendChild(b)};var S=function(a,b,c,d,e,f){try{var h=a.g,g=Q(a.g,"SCRIPT");g.async=!0;g.src=b instanceof w&&b.constructor===w?b.g:"type_error:TrustedResourceUrl";ha(g);h.head.appendChild(g);g.addEventListener("load",function(){e();d&&h.head.removeChild(g)});g.addEventListener("error",function(){0<c?S(a,b,c-1,d,e,f):(d&&h.head.removeChild(g),f())})}catch(l){f()}};var ia=r.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ja=r.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),ka=r.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),la=function(a,b,c){this.h=a;this.j=new R(this.h);this.g=null;this.i=[];this.l=!1;this.o=b;this.m=c},V=function(a){if(a.h.body&&!a.l){var b= function(){T(a);r.setTimeout(function(){return U(a,3)},50)};S(a.j,a.o,2,!0,function(){r[a.m]||b()},b);a.l=!0}},T=function(a){for(var b=W(1,5),c=0;c<b;c++){var d=X(a);a.h.body.appendChild(d);a.i.push(d)}b=X(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=W(100,110).toString()+"%";b.style.zIndex=W(2147483544,2147483644).toString();b.style["background-color"]=ma(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=ma(0,10,0,10,0,10);b.style.display= "flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=X(a);c.style.width=W(80,85).toString()+"%";c.style.maxWidth=W(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=Q(a.j.g,"IMG");d.className=A();d.src=ia;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=X(a),f=X(a);f.style["font-weight"]="bold";f.textContent=ja;var h=X(a);h.textContent=ka;Y(a, e,f);Y(a,e,h);Y(a,c,d);Y(a,c,e);Y(a,b,c);a.g=b;a.h.body.appendChild(a.g);b=W(1,5);for(c=0;c<b;c++)d=X(a),a.h.body.appendChild(d),a.i.push(d)},Y=function(a,b,c){for(var d=W(1,5),e=0;e<d;e++){var f=X(a);b.appendChild(f)}b.appendChild(c);c=W(1,5);for(d=0;d<c;d++)e=X(a),b.appendChild(e)},W=function(a,b){return Math.floor(a+Math.random()*(b-a))},ma=function(a,b,c,d,e,f){return"rgb("+W(Math.max(a,0),Math.min(b,255)).toString()+","+W(Math.max(c,0),Math.min(d,255)).toString()+","+W(Math.max(e,0),Math.min(f, 255)).toString()+")"},X=function(a){a=Q(a.j.g,"DIV");a.className=A();return a},U=function(a,b){0>=b||null!=a.g&&0!=a.g.offsetHeight&&0!=a.g.offsetWidth||(na(a),T(a),r.setTimeout(function(){return U(a,b-1)},50))},na=function(a){var b=a.i;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:aa(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.i=[];(b=a.g)&&b.parentNode&&b.parentNode.removeChild(b);a.g=null};var pa=function(a,b,c,d,e){var f=oa(c),h=function(l){l.appendChild(f);r.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},g=function(l){document.body?h(document.body):0<l?r.setTimeout(function(){g(l-1)},e):b()};g(3)},oa=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var L=function(a){J.call(this,a)};q(L,J);var qa=function(a){J.call(this,a)};q(qa,J);var ra=function(a,b){this.l=a;this.m=new R(a.document);this.g=b;this.i=K(this.g,1);b=M(this.g,2);this.o=x(K(b,4)||"");this.h=!1;b=M(this.g,13);b=x(K(b,4)||"");this.j=new la(a.document,b,K(this.g,12))};ra.prototype.start=function(){sa(this)}; var sa=function(a){ta(a);S(a.m,a.o,3,!1,function(){a:{var b=a.i;var c=r.btoa(b);if(c=r[c]){try{var d=O(P,r.atob(c))}catch(e){b=!1;break a}b=b===K(d,1)}else b=!1}b?Z(a,K(a.g,14)):(Z(a,K(a.g,8)),V(a.j))},function(){pa(function(){Z(a,K(a.g,7));V(a.j)},function(){return Z(a,K(a.g,6))},K(a.g,9),K(a.g,10),K(a.g,11))})},Z=function(a,b){a.h||(a.h=!0,a=new a.l.XMLHttpRequest,a.open("GET",b,!0),a.send())},ta=function(a){var b=r.btoa(a.i);a.l[b]&&Z(a,K(a.g,5))};(function(a,b){r[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];r[a]=da;b.apply(null,d)}})("__h82AlnkH6D91__",function(a){"function"===typeof window.atob&&(new ra(window,O(qa,window.atob(a)))).start()});}).call(this); window.__h82AlnkH6D91__("WyJwdWItMjUyOTExMDUxMTA3OTA0NSIsW251bGwsbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9iL3B1Yi0yNTI5MTEwNTExMDc5MDQ1Il0sbnVsbCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9lbC9BR1NLV3hYVjZtQkMyQmFzbjNieldpZmV0cWdUck0wVXFmZzRKZTJOYlQ0dlVLSUcycnExWWVzaDFCU1ZFZTZ5eEc0VGZjM3dtX0NnTEI2UFluMnJWdnhoTG50T2ZBXHUwMDNkXHUwMDNkP3RlXHUwMDNkVE9LRU5fRVhQT1NFRCIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFVQb2V4R3ZuN0hNdHZmcHctUjZqdFhONHhwM3oxbEZQYS1qc2VUQ3ZGbkV5ckhkZmxkM2JQT0kxbnNxV21RRnNYQmo3ejkxNl9aQ1JnVkg3YWJha3FReGdcdTAwM2RcdTAwM2Q/YWJcdTAwM2QxXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFVVYVREVVE3ZHVjaFItM1JZSW9iZmNudTZtSHhvUXBqRGVIOTliNW13VzVUU2JWblpCdnI2UnFxY0dGUUU3SS1kd3dMekhwYTRCWkE3R0tKd3FIalZIcUFcdTAwM2RcdTAwM2Q/YWJcdTAwM2QyXHUwMDI2c2JmXHUwMDNkMSIsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2VsL0FHU0tXeFZWVEd0UUlnTUJhMDFtTmlIT0hIT1MxLW1WdXU5UVF2a1F1VWhEbzFEbEN2aXRNSkVRWEZ2dFlmYVc1RVhhckF1X05WUTFXSE9NeGN0NHdVX3JoTHlNZXdcdTAwM2RcdTAwM2Q/c2JmXHUwMDNkMiIsImRpdi1ncHQtYWQiLDIwLDEwMCwiY0hWaUxUSTFNamt4TVRBMU1URXdOemt3TkRVXHUwMDNkIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vd3d3LmdzdGF0aWMuY29tLzBlbW4vZi9wL3B1Yi0yNTI5MTEwNTExMDc5MDQ1LmpzP3VzcXBcdTAwM2RDQWsiXSwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vZWwvQUdTS1d4VTJKbVlIYUJHd3RhMHRFbjF6a3hzUzVvNFdQMU81bTE1dEEtNUdsbDloelRJbXA0dnpvRHNva3BLSHdLSmEtNEN1SExhWVgtdlc0Y3E5cXB4R3NySWY1Z1x1MDAzZFx1MDAzZCJd");</script>
+</head>
+<body>
+<div class="kurzybank"></div>
+<div id="top">
+<div class="header">
+<div class="mob_top">
+<div class="arrow_down2"></div>
+</div>
+<div class="mob_top1">
+<div class="logo">
+<a href="https://kurzovnilistek.eu"><span class="euro"></span><div class="logo_text">kurzovní<span class="orange">lístek</span></div></a>
+</div>
+</div>
+<div class="mob_top2">
+<div onclick="myFunction()" class="m_down2"></div>
+</div>
+<div class="header_box">
+<ul class="nav">
+<li class="home"><a href="/"><span></span></a></li>
+<li><a href="/kurzovni-listek/">Kurzovní lístek</a></li>
+<li><a href="/archiv-kurzu/">Archiv kurzů</a></li>
+<li><a href="/kody-bank-swift-a-bic-kody/">SWIFT/BIC kódy</a></li>
+<li><a href="/prevodnik-men/">Převodník měn</a></li>
+<div class="viac">Více <span class="arrow_down"></span></div>
+<div class="clear"></div>
+</ul>
+<div class="lang_box">
+<div class="lang">
+<span class="lang_img"><img rel="preload" src="flags/cr.svg" alt="Česká verze"></span>
+<span class="lang_arrow"></span>
+</div>
+<div class="lang2">
+<a href="https://kurzovylistok.eu" rel="external" title="Kurzovní lístek Slovenské národní banky a Evropských bank">
+<span class="lang_img2"><img rel="preload" src="flags/svk.svg" alt="Slovenská verze"></span>
+<span class="switch">SK</span>
+</a></div>
+</div>
+<div id="searcher">
+<div class="search">
+<script async src="https://cse.google.com/cse.js?cx=ebc25c792259e8041"></script>
+<form method="get" action="/search.php">
+<input type="text" name="q" placeholder="Hledat...">
+<button type="submit" class="go"></button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="center">
+<div class="introblock onlyhome">
+<div class="more_top">
+<div class="nav_up"></div>
+<div class="under_more">
+<ul class="nav_more">
+<div class="navint">Kurzovní lístky bank</div>
+<li><img rel="preload" src="../img/csas.ico" alt="Kurzovní lístek České spořitelny"><a href="/kurzovni-listek/csas/" title="Kurzovní lístek České spořitelny">Česká spořitelna</a></li>
+<li><img rel="preload" src="../img/csob.ico" alt="Kurzovní lístek ČSOB"><a href="/kurzovni-listek/csob/" title="Kurzovní lístek ČSOB">ČSOB</a></li>
+<li><img rel="preload" src="../img/fio.png" alt="Kurzovní lístek Fio banky"><a href="/kurzovni-listek/fio/" title="Kurzovní lístek Fio banky">Fio banka</a></li>
+<li><img rel="preload" src="../img/mbank.ico" alt="Kurzovní lístek mBank"><a href="/kurzovni-listek/mbank/" title="Kurzovní lístek mBank">mBank</a></li>
+<li><img rel="preload" src="../img/rb.ico" alt="Kurzovní lístek Raiffeisenbank"><a href="/kurzovni-listek/raiffeisenbank/" title="Kurzovní lístek Raiffeisenbank">Raiffeisenbank</a></li>
+<li><img rel="preload" src="../img/uni.ico" alt="Kurzovní lístek UniCredit Bank"><a href="/kurzovni-listek/unicreditbank/" title="Kurzovní lístek UniCredit Bank">UniCredit Bank</a></li>
+<li></li><li></li><li></li><li></li><li></li>
+<div class="clear"></div>
+<div class="navint">Bankovní kódy / SWIFT a BIC kódy</div>
+<li><span></span><a href="/ceske-banky-kody-bank/">Kódy bank - České banky</a></li>
+<li><span></span><a href="/slovenske-banky-kody-bank/">Kódy bank - Slovenské banky</a></li>
+<li><span></span><a href="/kody-bank-swift-a-bic-kody/">Kódy bank - Evropské banky</a></li>
+<li><span></span><a href="/evropske-narodni-banky/">Evropské národní banky</a></li>
+</ul>
+<ul class="nav_more">
+<div class="navint">Kurzy národních bank</div>
+
+<li><img rel="preload" src="../flags/czk.svg" alt="Kurzovní lístek České národní banky"><a href="/kurzovni-listek/">Kurzovní lístek ČNB - Dnešní</a></li>
+<ul><li>&rarr;&nbsp;&nbsp;<a href="/archiv-kurzu/">Archiv kurzů ČNB</a></li></ul>
+<li><img rel="preload" src="../flags/svk.svg" alt="Kurzovní lístek Slovenské národní banky"><a href="/kurzovni-listek-slovenska-narodni-banka/">Kurzovní lístek - Slovensko</a></li>
+<li><img rel="preload" src="../flags/huf.svg" alt="Kurzovní lístek Maďarskej národnej banky"><a href="/kurzovni-listek-madarska-narodni-banka/">Kurzovní lístek - Maďarsko</a></li>
+<li><img rel="preload" src="../flags/pln.svg" alt="Kurzovní lístek Poľskej národnej banky"><a href="/kurzovni-listek-polska-narodni-banka/">Kurzovní lístek - Polsko</a></li>
+<li><img rel="preload" src="../flags/uah.svg" alt="Kurzovní lístek Ukrajinskej národnej banky"><a href="/kurzovni-listek-ukrajinska-narodni-banka/">Kurzovní lístek - Ukrajina</a></li>
+<li><img rel="preload" src="../flags/rub.svg" alt="Kurzovní lístek Ruskej centrálnej banky"><a href="/kurzovni-listek-ruska-centralni-banka/">Kurzovní lístek - Rusko</a></li>
+<li><img class="cryptocoin" rel="preload" src="../crypto/btc.svg" alt="Kurzy kryptoměn"><a style="color:#e4202a" href="/kurzy-kryptomen/">LIVE kurzy kryptoměn</a></li>
+</ul>
+<ul class="nav_more">
+<div class="navint">Ostatní / Kalkulačky</div>
+<li><span></span><a href="/kody-zemi/">ISO kódy zemí</a></li>
+<li><span></span><a href="/kody-men/">Kódy měn</a></li>
+<li><span></span><a href="/zpravy-finance-ekonomika/">Zprávy</a></li>
+<li><span></span><a href="/prevodnik-men/">Převodník měn</a></li>
+<li><span></span><a href="/iban-kalkulacka-generator/">IBAN kalkulačka</a></li>
+<li><span></span><a href="/smenarny-ceska-republika/">Směnárny</a></li>
+<li><span></span><a href="/online-a-virtualni-banky/">Online a virtuální banky</a></li>
+<li><span></span><a href="/vysvetlivky-pojmu/">Vysvětlivky pojmů</a></li>
+<li><span></span><a href="/mapa-stranek/">Mapa stránek</a></li>
+<li><span></span><a href="/kontakt/">Kontakt</a></li>
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="ads990_space"></div>
+<div class="ads_home">
+<div class="szm_ads">
+<div class="szm_box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529110511079045" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2529110511079045" data-ad-slot="3046596787" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+
+<div class="h_center">
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> Česká spořitelna</span> - 17.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<div class="z_h_zdroj"><span>Česká spořitelna - Devizy</span></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+<th>Střed</th>
+</tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>15,0610</td><td>15,8340</td><td>15,4470</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td><td>DKK</td><td>1</td><td>3,1460</td><td>3,3070</td><td>3,2260</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>23,4000</td><td>24,6000</td><td>24,0000</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+<th>Střed</th>
+</tr>
+</thead>
+<tbody>
+<tr><div class="z_h_zdroj"><span>Česká spořitelna - Valuty</span></div></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>14,9100</td><td>15,9900</td><td>15,4470</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td><td>DKK</td><td>1</td><td>3,1100</td><td>3,3400</td><td>3,2260</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>23,1600</td><td>24,8400</td><td>24,0000</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/csas/">Všechny kurzy České spořitelny</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy valut a deviz České spořitelny - Aktualizováno 17.01.2023</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Kurzovní lístek<span> ČSOB</span> - 17.01.2023</h2>
+<div class="clear"></div>
+<div class="over_listok">
+<div class="z_h_zdroj"><span>ČSOB - Devizy</span></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+<th>Střed</th>
+</tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>15.048</td><td>15.878</td><td>15.463</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/cny.svg" alt="Čínsky jüan"></span>Čínsky jüan</td><td>CNY</td><td>1</td><td>3.080</td><td>3.473</td><td>3.277</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td><td>DKK</td><td>1</td><td>3.141</td><td>3.314</td><td>3.228</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+<th>Střed</th>
+</tr>
+</thead>
+<tbody>
+<tr><div class="z_h_zdroj"><span>ČSOB - Valuty</span></div></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/sek.svg" alt="Švédská koruna"></span>Švédská koruna</td><td>SEK</td><td>1</td><td>2.06</td><td>2.18</td><td>2.12</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/chf.svg" alt="Švýcarský frank"></span>Švýcarský frank</td><td>CHF</td><td>1</td><td>23.32</td><td>24.58</td><td>23.95</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td><td>DKK</td><td>1</td><td>3.14</td><td>3.31</td><td>3.22</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/csob/">Všechny kurzy ČSOB</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy valut a deviz ČSOB - Aktualizováno 17.01.2023</div>
+</div>
+</div>
+</div>
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> Fio banky</span> - 17.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background: none;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+</thead>
+</tr>
+<tbody>
+<tr><td></td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>15,03168</td><td>15,86592</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</td><td>BGN</td><td>1</td><td>11,94461</td><td>12,60753</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>16,12241</td><td>17,01719</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td><td>DKK</td><td>1</td><td>3,14001</td><td>3,31429</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>23,35589</td><td>24,65211</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/gbp.svg" alt="Libra šterlinků"></span>Libra šterlinků</td><td>GBP</td><td>1</td><td>26,32013</td><td>27,78087</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/huf.svg" alt="Maďarský forint"></span>Maďarský forint</td><td>HUF</td><td>100</td><td>5,85600</td><td>6,18300</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/chf.svg" alt="Švýcarský frank"></span>Švýcarský frank</td><td>CHF</td><td>1</td><td>23,29313</td><td>24,58587</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/jpy.svg" alt="Japonský jen"></span>Japonský jen</td><td>JPY</td><td>100</td><td>16,79500</td><td>17,72800</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/nok.svg" alt="Norská koruna"></span>Norská koruna</td><td>NOK</td><td>1</td><td>2,17995</td><td>2,30095</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/pln.svg" alt="Polský zlotý"></span>Polský zlotý</td><td>PLN</td><td>1</td><td>4,98000</td><td>5,25640</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div style="width:100%;height:4px;padding:0;"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/fio/">Všechny kurzy Fio banky</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy valut a deviz Fio banky - Aktualizováno 17.01.2023</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Kurzovní lístek<span> mBank</span> - 17.01.2023</h2>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background: none;">
+ <th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+</thead>
+</tr>
+<tbody>
+<tr><td></td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/pln.svg" alt="Polský zlotý"></span>Polský zlotý</td><td>PLN</td><td>1</td><td>4,9648</td><td>5,2720</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/usd.svg" alt="Americký dolar"></span>Americký dolar</td><td>USD</td><td>1</td><td>21,5257</td><td>22,8571</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>14,9887</td><td>15,9159</td><td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>16,0751</td><td>17,0695</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>23,2843</td><td>24,7245</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/huf.svg" alt="Maďarský forint"></span>Maďarský forint</td><td>HUF</td><td>100</td><td>5,8384</td><td>6,1996</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/gbp.svg" alt="Libra šterlinků"></span>Libra šterlinků</td><td>GBP</td><td>1</td><td>26,2454</td><td>27,8688</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/jpy.svg" alt="Japonský jen"></span>Japonský jen</td><td>JPY</td><td>100</td><td>16,7457</td><td>17,7815</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td><td>DKK</td><td>1</td><td>3,1303</td><td>3,3239</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/chf.svg" alt="Švýcarský frank"></span>Švýcarský frank</td><td>CHF</td><td>1</td><td>23,2203</td><td>24,6567</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/nok.svg" alt="Norská koruna"></span>Norská koruna</td><td>NOK</td><td>1</td><td>2,1736</td><td>2,3080</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div style="width:100%;height:4px;padding:0;"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/mbank/">Všechny kurzy Mbank</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy valut a deviz Mbank - Aktualizováno 17.01.2023</div>
+</div>
+</div>
+</div>
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> Raiffeisenbank</span> - 17.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<div class="z_h_zdroj"><span>Raiffeisenbank - Devizy</span></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+</thead>
+</tr>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>14.90597</td><td>15.984</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</td><td>BGN</td><td>1</td><td>11.8452</td><td>12.7019</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>15.99171</td><td>17.1483</td></tr></tbody>
+</table>
+<div class="clear"></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+</tr>
+</thead>
+<tbody>
+<tr><div class="z_h_zdroj"><span>Raiffeisenbank - Valuty</span></div>
+</tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>14.628</td><td>16.262</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</td><td>BGN</td><td>1</td><td>11.6243</td><td>12.9228</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>15.6934</td><td>17.4466</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/raiffeisenbank/">Všechny kurzy Raiffeisenbank</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy valut a deviz Raiffeisenbank - Aktualizováno 17.01.2023
+</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Kurzovní lístek<span> UniCredit Bank</span> - 17.01.2023</h2>
+<div class="clear"></div>
+<div class="over_listok">
+<div class="z_h_zdroj"><span>UniCredit Bank - Devizy</span></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+</tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>14.895</td><td>15.975</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/bam.svg" alt="Bosniansko-hercegovinská konvertibilná marka"></span>Bosn. - Herc. marka</td><td>BAM</td><td>1</td><td>11.843</td><td>12.702</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</td><td>BGN</td><td>1</td><td>11.843</td><td>12.702</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<table class="listok">
+<thead>
+<tr style="background: #ffffe0;">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Nákup</th>
+<th>Prodej</th>
+</tr>
+</thead>
+<tbody>
+<tr><div class="z_h_zdroj"><span>UniCredit Bank - Valuty</span></div>
+</tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>14.663</td><td>16.207</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../../../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>15.733</td><td>17.389</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../../../flags/jpy.svg" alt="Japonský jen"></span>Japonský jen</td><td>JPY</td><td>100</td><td>16.391</td><td>18.117</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/unicreditbank/">Všechny kurzy UniCredit Bank</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy valut a deviz UniCredit Bank - Aktualizováno 17.01.2023</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="ads768-2_space"></div>
+<div class="ads_home">
+<div class="szm_ads">
+<div class="szm_box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529110511079045" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2529110511079045" data-ad-slot="3046596787" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+<div class="clear"></div>
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> ČNB</span> - 17.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background:none"><th>Název měny</th><th>Kód</th><th>Množ.</th><th>Kurz v CZK</th><th>Kalk.</th></tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/eu.svg" alt="Euro"></span>Euro</td>
+<td>EUR</td><td>1</td><td>23.995</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td>
+<td>AUD</td><td>1</td><td>15.443</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</td>
+<td>BGN</td><td>1</td><td>12.269</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/brl.svg" alt="Brazilský real"></span>Brazilský real</td>
+<td>BRL</td><td>1</td><td>4.341</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td>
+<td>CAD</td><td>1</td><td>16.565</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/huf.svg" alt="Maďarský forint"></span>Maďarský forint</td>
+<td>HUF</td><td>100</td><td>6.015</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/sek.svg" alt="Švédska koruna"></span>Švédska koruna</td>
+<td>SEK</td><td>1</td><td>2.129</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/try.svg" alt="Turecká lira"></span>Turecká lira</td>
+<td>TRY</td><td>1</td><td>1.181</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/usd.svg" alt="Americký dolar"></span>Americký dolar</td>
+<td>USD</td><td>1</td><td>22.191</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/gbp.svg" alt="Libra šterlinků"></span>Libra šterlinků</td>
+<td>GBP</td><td>1</td><td>27.035</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/dkk.svg" alt="Dánská koruna"></span>Dánská koruna</td>
+<td>DKK</td><td>1</td><td>3.226</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td><tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek/">Všechny kurzy ČNB</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy České Národní Banky - Aktualizováno 16. 01. 2023 14:05 SEČ
+</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Archiv kurzů<span> ČNB </span></h2>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok3">
+<thead>
+<tr><td><span>Den</span></td></tr>
+<tr><td><span>EUR</span></td></tr>
+<tr><td><span>USD</span></td></tr>
+<tr><td><span>GBP</span></td></tr>
+<tr><td><span>CHF</span></td></tr>
+</thead>
+<tbody>
+<tr><td class="l_date">16.01.2023</td><td class="l_date">15.01.2023</td><td class="l_date">14.01.2023</td><td class="l_date">13.01.2023</td><td class="l_date">12.01.2023</td><td class="l_date">11.01.2023</td><td class="l_date">10.01.2023</td><td class="l_date">09.01.2023</td><td class="l_date">08.01.2023</td><td class="l_date">07.01.2023</td><td class="l_date">06.01.2023</td></tr><tr class="colored"><td>23.995</td><td>24.015</td><td>24.015</td><td>24.015</td><td>24.035</td><td>24.025</td><td>23.985</td><td>23.990</td><td>24.055</td><td>24.055</td><td>24.055</td></tr><tr><td>22.191</td><td>22.206</td><td>22.206</td><td>22.206</td><td>22.312</td><td>22.357</td><td>22.368</td><td>22.430</td><td>22.911</td><td>22.911</td><td>22.911</td></tr><tr class="colored"><td>27.035</td><td>27.043</td><td>27.043</td><td>27.043</td><td>27.099</td><td>27.095</td><td>27.152</td><td>27.248</td><td>27.189</td><td>27.189</td><td>27.189</td></tr><tr><td>23.932</td><td>23.893</td><td>23.893</td><td>23.893</td><td>23.902</td><td>24.106</td><td>24.208</td><td>24.312</td><td>24.387</td><td>24.387</td><td>24.387</td></tr></tbody></table><div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/archiv-kurzu/">Celý archiv</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Archiv kurzů ČNB - Aktualizováno 16. 01. 2023 14:05 SEČ</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> NBS</span> - 17.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok odd">
+<tbody><tr style="background:none"><th>Název měny</th><th>Kód</th><th>Množ.</th><th>Kurz</th><th><span class="intro_space"></span>Kalk.</th></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/usd.svg" alt="Americký dolar"></span>Americký dolar</span></td><td>USD</td><td>1</td><td>1.0812</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/jpy.svg" alt="Japonský jen"></span>Japonský jen</span></td><td>JPY</td><td>1</td><td>138.92</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</span></td><td>BGN</td><td>1</td><td>1.9558</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/czk.svg" alt="Česká koruna"></span>Česká koruna</span></td><td>CZK</td><td>1</td><td>23.997</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/gbp.svg" alt="Libra šterlinků"></span>Libra šterlinků</span></td><td>GBP</td><td>1</td><td>0.88758</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/huf.svg" alt="Maďarský forint"></span>Maďarský forint</span></td><td>HUF</td><td>1</td><td>398.98</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/pln.svg" alt="Polský zlotý"></span>Polský zlotý</span></td><td>PLN</td><td>1</td><td>4.6935</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/sek.svg" alt="Švédská koruna"></span>Švédská koruna</span></td><td>SEK</td><td>1</td><td>11.2725</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/chf.svg" alt="Švýcarský frank"></span>Švýcarský frank</span></td><td>CHF</td><td>1</td><td>1.0026</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+<tr><td><span class="listok_img"><img rel="preload" src="flags/try.svg" alt="Turecká lira"></span>Turecká lira</span></td><td>TRY</td><td>1</td><td>20.3175</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+</tbody>
+</table><div class="clear"></div>
+<div class="offer2">
+<a class="allproducts" href="/kurzovni-listek/">Všechny kurzy</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy měn Národní banky Slovenska - Aktualizováno 16. 01. 2023 16:05 SEČ
+</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Vybrané kurzy<span> měn NBS</span> - 1.01.2023</h2>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background:none"><th>Země</th><th>Kód</th><th>Název měny</th><th>Kurz za 1 €</th></tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/vnd.svg" alt="Vietnam"></span>Vietnam</td>
+<td>VND</td><td>Dong</td><td>25107.892</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/tnd.svg" alt="Tunisko"></span>Tunisko</td>
+<td>TND</td><td>Tuniský dinár</td><td>3.302</td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/egp.svg" alt="Egypt"></span>Egypt</td>
+<td>EGP</td><td>Egyptská libra</td><td>26.365</td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/sar.svg" alt="Saúdská Arábie"></span>Saúdská Arábie</td>
+<td>SAR</td><td>Saúdský rial</td><td>4.007</td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/lak.svg" alt="Laos"></span>Laos</td>
+<td>LAK</td><td>Kip</td><td>18348.157</td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/kwd.svg" alt="Kuvajt"></span>Kuvajt</td>
+<td>KWD</td><td>Kuvajtský dinár</td><td>0.326</td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/mad.svg" alt="Maroko"></span>Maroko</td>
+<td>MAD</td><td>Marocký dirham</td><td>11.147</td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/mvr.svg" alt="Maldivy"></span>Maldivy</td>
+<td>MVR</td><td>Maledivská rupie</td><td>16.433</td><tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/crc.svg" alt="Kostarika"></span>Kostarika</td>
+<td>CRC</td><td>Kostarický colon</td><td>630.212</td><tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/htg.svg" alt="Haiti"></span>Haiti</td>
+<td>HTG</td><td>Gourde</td><td>154.527</td><tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/vybrane-kurzy-men-nbs/">Všechny vybrané kurzy</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Vybrané kurzy měn NBS - Aktualizováno měsíčně 1.01.2023
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="ads768-2_space"></div>
+<div class="ads_home">
+<div class="szm_ads">
+<div class="szm_box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529110511079045" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2529110511079045" data-ad-slot="3046596787" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> MNB</span> - 16.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background:transparent"><th>Název měny</th><th>Kód</th><th>Množ.</th><th>Kurz v HUF</th><th>Kalk.</th></tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/chf.svg" alt="Švýcarský frank"></span>Švýcarský frank</td><td>CHF</td><td>1</td><td>398,61</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>398,98</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/usd.svg" alt="Americký dolar"></span>Americký dolar</td><td>USD</td><td>1</td><td>21,6</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>256,81</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/bgn.svg" alt="Bulharský lev"></span>Bulharský lev</td><td>BGN</td><td>1</td><td>203,99</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/brl.svg" alt="Brazilský real"></span>Brazilský real</td><td>BRL</td><td>1</td><td>72,36</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>275,26</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/cny.svg" alt="Čínský jüan"></span>Čínský jüan</td><td>CNY</td><td>1</td><td>54,8</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/czk.svg" alt="Česká koruna"></span>Česká koruna</td><td>CZK</td><td>1</td><td>16,62</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/gbp.svg" alt="Libra šterlinků"></span>Libra šterlinků</td><td>GBP</td><td>1</td><td>449,86</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek-madarska-narodni-banka/">Všechny kurzy MNB</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy Maďarské Národní Banky - Platné pro den
+16.01.2023</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Kurzovní lístek<span> NBP</span> - 17.01.2023</h2>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background:transparent">
+<th>Název měny</th>
+<th>Kód</th>
+<th>Množ.</th>
+<th>Kurz v PLN</th>
+<th>Kalk.</th>
+</tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/uah.svg" alt="Ukrajinská hřivna"></span>Ukrajinská hřivna</td><td>UAH</td><td>1</td><td>0,1258</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>4,7004</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/usd.svg" alt="Americký dolar"></span>Americký dolar</td><td>USD</td><td>1</td><td>4,3436</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/rub.svg" alt="Ruský rubl"></span>Ruský rubl</td><td>RUB</td><td>1</td><td>29</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/clp.svg" alt="Chilské peso"></span>Chilské peso</td><td>CLP</td><td>100</td><td>0,5313</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/cad.svg" alt="Kanadský dolar"></span>Kanadský dolar</td><td>CAD</td><td>1</td><td>3,2429</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/huf.svg" alt="Maďarský forint"></span>Maďarský forint</td><td>HUF</td><td>100</td><td>1,1779</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/sek.svg" alt="Švédská koruna"></span>Švédská koruna</td><td>SEK</td><td>1</td><td>0,4171</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/chf.svg" alt="Švýcarský frank"></span>Švýcarský frank</td><td>CHF</td><td>1</td><td>4,6959</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/mxn.svg" alt="Mexické peso"></span>Mexické peso</td><td>MXN</td><td>1</td><td>0,2305</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek-polska-narodni-banka/">Všechny kurzy NBP</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy Polské Národní Banky - Aktualizováno 16. 01. 2023 12:15 SEČ
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="introleft">
+<h1 class="onl">Kurzovní lístek<span> NBU</span> - 17.01.2023</h1>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background:transparent"><th>Název měny</th><th>Kód</th><th>Množ.</th><th>Kurz v UAH</th></tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td>
+<td>AUD</td><td>1</td><td>25.4682</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/kzt.svg" alt="Kazachstánský tenge"></span>Kazachstánský tenge</td>
+<td>KZT</td><td>1</td><td>0.0789</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/mdl.svg" alt="Moldavský lei"></span>Moldavský lei</td>
+<td>MDL</td><td>1</td><td>1.9191</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/egp.svg" alt="Egyptská libra"></span>Egyptská libra</td>
+<td>EGP</td><td>1</td><td>1.2346</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/pln.svg" alt="Polský zlotý"></span>Polský zlotý</td>
+<td>PLN</td><td>1</td><td>8.43</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/byn.svg" alt="Běloruský rubl"></span>Běloruský rubl</td>
+<td>BYN</td><td>1</td><td>13.2919</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/usd.svg" alt="Americký dolar"></span>Americký dolar</td>
+<td>USD</td><td>1</td><td>36.5686</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/czk.svg" alt="Česká koruna"></span>Česká koruna</td>
+<td>CZK</td><td>1</td><td>1.6478</td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/sar.svg" alt="Saúdský rial"></span>Saúdský rial</td>
+<td>SAR</td><td>1</td><td>9.7311</td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/eu.svg" alt="Euro"></span>Euro</td>
+<td>EUR</td><td>1</td><td>39.5581</td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek-ukrajinska-narodni-banka/">Všechny kurzy NBU</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy Ukrajinské Národní Banky - Aktualizováno
+17.01.2023 15:30 SEČ
+</div>
+</div>
+</div>
+</div>
+<div class="introright">
+<h2 class="onl">Kurzovní lístek<span> CBR</span> - 17.01.2023</h2>
+<div class="clear"></div>
+<div class="over_listok">
+<table class="listok">
+<thead>
+<tr style="background:transparent"><th>Název měny</th><th>Kód</th><th>Množ.</th><th>Kurz v RUB</th><th>Kalk.</th></tr>
+</thead>
+<tbody>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/eu.svg" alt="Euro"></span>Euro</td><td>EUR</td><td>1</td><td>73,8298</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/azn.svg" alt="Ázerbájdžánský manat"></span>Ázerbájdžánský manat</td><td>AZN</td><td>1</td><td>40,1701</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/tjs.svg" alt="Tádžické Somoni"></span>Tádžické Somoni</td><td>TJS</td><td>10</td><td>66,6789</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/aud.svg" alt="Australský dolar"></span>Australský dolar</td><td>AUD</td><td>1</td><td>47,7205</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/kzt.svg" alt="Kazachstánský tenge"></span>Kazachstánský tenge</td><td>KZT</td><td>100</td><td>14,7719</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/pln.svg" alt="Polský zlotý"></span>Polský zlotý</td><td>PLN</td><td>1</td><td>15,7530</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/byn.svg" alt="Běloruský rubl"></span>Běloruský rubl</td><td>BYN</td><td>1</td><td>26,1024</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/usd.svg" alt="Americký dolar"></span>Americký dolar</td><td>USD</td><td>1</td><td>68,2892</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr class="colored"><td><span class="listok_img"><img rel="preload" src="../flags/czk.svg" alt="Česká koruna"></span>Česká koruna</td><td>CZK</td><td>10</td><td>30,7526</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr><tr><td><span class="listok_img"><img rel="preload" src="../flags/kgs.svg" alt="Kyrgyzský som"></span>Kyrgyzský som</td><td>KGS</td><td>100</td><td>79,7026</td><td><a href="/prevodnik-men/"><span class="top_calc"></span></a></td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer2"><a class="allproducts" href="/kurzovni-listek-ruska-centralni-banka/">Všechny kurzy CBR</a></div>
+<div class="clear"></div><div class="echo"></div>
+<div class="infobankabox"><div class="infobanka">* Kurzy Ruské Centrální Banky - Aktualizováno 17.01.2023
+</div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="mega"></div>
+<div class="mega2"></div>
+<div class="ads_home">
+<div class="szm_ads">
+<div class="szm_box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529110511079045" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2529110511079045" data-ad-slot="3046596787" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+<h2 class="rateboxonl">Live kurzy kryptoměn<span> - 24 hodin</span></h2>
+<script>
+async function getPriceBTCUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=BTCUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, highPrice, lowPrice, weightedAvgPrice, priceChange} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-btcusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-btcusdt').style.color='#009e73';
+  }
+
+document.getElementById('price-btcusdt').textContent = lastPrice;
+document.getElementById('24hr-btcusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-btcusdt').textContent = highPrice;
+document.getElementById('low24hr-btcusdt').textContent = lowPrice;
+document.getElementById('middle24hr-btcusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-btcusdt').textContent = priceChange;
+document.getElementById('price-btcusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-btcusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-btcusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-btcusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-btcusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceBTCUSDT();
+setInterval(getPriceBTCUSDT, 1000);
+
+async function getPriceETHUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=ETHUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-ethusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-ethusdt').style.color='#009e73';
+  }
+document.getElementById('price-ethusdt').textContent = lastPrice;
+document.getElementById('24hr-ethusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-ethusdt').textContent = highPrice;
+document.getElementById('low24hr-ethusdt').textContent = lowPrice;
+document.getElementById('middle24hr-ethusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-ethusdt').textContent = priceChange;
+document.getElementById('price-ethusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-ethusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-ethusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-ethusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-ethusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceETHUSDT();
+setInterval(getPriceETHUSDT, 1000);
+
+async function getPriceSOLUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=SOLUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-solusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-solusdt').style.color='#009e73';
+  }
+document.getElementById('price-solusdt').textContent = lastPrice;
+document.getElementById('24hr-solusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-solusdt').textContent = highPrice;
+document.getElementById('low24hr-solusdt').textContent = lowPrice;
+document.getElementById('middle24hr-solusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-solusdt').textContent = priceChange;
+document.getElementById('price-solusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-solusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-solusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-solusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-solusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceSOLUSDT();
+setInterval(getPriceSOLUSDT, 1000);
+
+async function getPriceBNBUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=BNBUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-bnbusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-bnbusdt').style.color='#009e73';
+  }
+document.getElementById('price-bnbusdt').textContent = lastPrice;
+document.getElementById('24hr-bnbusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-bnbusdt').textContent = highPrice;
+document.getElementById('low24hr-bnbusdt').textContent = lowPrice;
+document.getElementById('middle24hr-bnbusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-bnbusdt').textContent = priceChange;
+document.getElementById('price-bnbusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-bnbusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-bnbusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-bnbusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-bnbusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceBNBUSDT();
+setInterval(getPriceBNBUSDT, 1000);
+
+async function getPriceXRPUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=XRPUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-xrpusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-xrpusdt').style.color='#009e73';
+  }
+document.getElementById('price-xrpusdt').textContent = lastPrice;
+document.getElementById('24hr-xrpusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-xrpusdt').textContent = highPrice;
+document.getElementById('low24hr-xrpusdt').textContent = lowPrice;
+document.getElementById('middle24hr-xrpusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-xrpusdt').textContent = priceChange;
+document.getElementById('price-xrpusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-xrpusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-xrpusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-xrpusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-xrpusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceXRPUSDT();
+setInterval(getPriceXRPUSDT, 1000);
+
+async function getPriceDOGEUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=DOGEUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-dogeusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-dogeusdt').style.color='#009e73';
+  }
+document.getElementById('price-dogeusdt').textContent = lastPrice;
+document.getElementById('24hr-dogeusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-dogeusdt').textContent = highPrice;
+document.getElementById('low24hr-dogeusdt').textContent = lowPrice;
+document.getElementById('middle24hr-dogeusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-dogeusdt').textContent = priceChange;
+document.getElementById('price-dogeusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-dogeusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-dogeusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-dogeusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-dogeusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceDOGEUSDT();
+setInterval(getPriceDOGEUSDT, 1000);
+
+async function getPriceADAUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=ADAUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-adausdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-adausdt').style.color='#009e73';
+  }
+document.getElementById('price-adausdt').textContent = lastPrice;
+document.getElementById('24hr-adausdt').textContent = priceChangePercent;
+document.getElementById('high24hr-adausdt').textContent = highPrice;
+document.getElementById('low24hr-adausdt').textContent = lowPrice;
+document.getElementById('middle24hr-adausdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-adausdt').textContent = priceChange;
+document.getElementById('price-adausdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-adausdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-adausdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-adausdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-adausdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceADAUSDT();
+setInterval(getPriceADAUSDT, 1000);
+
+async function getPriceUSDCUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=USDCUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-usdcusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-usdcusdt').style.color='#009e73';
+  }
+document.getElementById('price-usdcusdt').textContent = lastPrice;
+document.getElementById('24hr-usdcusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-usdcusdt').textContent = highPrice;
+document.getElementById('low24hr-usdcusdt').textContent = lowPrice;
+document.getElementById('middle24hr-usdcusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-usdcusdt').textContent = priceChange;
+document.getElementById('price-usdcusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-usdcusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-usdcusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-usdcusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-usdcusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceUSDCUSDT();
+setInterval(getPriceUSDCUSDT, 1000);
+
+async function getPriceSHIBUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=SHIBUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-shibusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-shibusdt').style.color='#009e73';
+  }
+document.getElementById('price-shibusdt').textContent = lastPrice;
+document.getElementById('24hr-shibusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-shibusdt').textContent = highPrice;
+document.getElementById('low24hr-shibusdt').textContent = lowPrice;
+document.getElementById('middle24hr-shibusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-shibusdt').textContent = priceChange;
+}
+getPriceSHIBUSDT();
+setInterval(getPriceSHIBUSDT, 1000);
+
+async function getPriceLTCUSDT() {
+const response = await fetch("https://api.binance.com/api/v3/ticker/24hr?symbol=LTCUSDT");
+const data = await response.json();
+const {lastPrice, priceChangePercent, priceChange, highPrice, lowPrice, weightedAvgPrice} = data;
+ if(priceChangePercent < 1){
+  document.getElementById('24hr-ltcusdt').style.color='#17ba5b';
+  }
+ if(priceChangePercent > 0){
+  document.getElementById('24hr-ltcusdt').style.color='#009e73';
+  }
+document.getElementById('price-ltcusdt').textContent = lastPrice;
+document.getElementById('24hr-ltcusdt').textContent = priceChangePercent;
+document.getElementById('high24hr-ltcusdt').textContent = highPrice;
+document.getElementById('low24hr-ltcusdt').textContent = lowPrice;
+document.getElementById('middle24hr-ltcusdt').textContent = weightedAvgPrice;
+document.getElementById('change24hr-ltcusdt').textContent = priceChange;
+document.getElementById('price-ltcusdt').innerHTML = (Math.round(lastPrice * 100) / 100).toFixed(2);
+document.getElementById('change24hr-ltcusdt').innerHTML = (Math.round(priceChange * 100) / 100).toFixed(2);
+document.getElementById('high24hr-ltcusdt').innerHTML = (Math.round(highPrice * 100) / 100).toFixed(2);
+document.getElementById('low24hr-ltcusdt').innerHTML = (Math.round(lowPrice * 100) / 100).toFixed(2);
+document.getElementById('middle24hr-ltcusdt').innerHTML = (Math.round(weightedAvgPrice * 100) / 100).toFixed(2);
+}
+getPriceLTCUSDT();
+setInterval(getPriceLTCUSDT, 1000);
+
+</script>
+<div class="banky_box">
+<table class="krypto">
+<thead>
+<tr><td></td></tr>
+<th>Kryptoměna</th><th>Skratka</th><th>Aktuální <br> cena</th><th>Změna <br> (24h)</th><th>Změna <br> v %</th><th>Nejnižší <br> cena</th><th>Průměrná <br> cena</th><th>Nejvyšší <br> cena</th></thead>
+<tbody>
+<tr><td></td></tr>
+<tr class="colored">
+<td><span class="crypto"><img src="../crypto/btc.svg" alt="kurz bitcoinu"><a href="/kurzy-kryptomen/">Bitcoin</a></span></td>
+<td><span>BTC</span></td>
+<td><span id="price-btcusdt"></span> $</td>
+<td><span id="change24hr-btcusdt"></span> $</td>
+<td><span id="24hr-btcusdt"></span> %</td>
+<td><span id="low24hr-btcusdt"></span> $</td>
+<td><span id="middle24hr-btcusdt"></span> $</td>
+<td><span id="high24hr-btcusdt"></span> $</td>
+</tr>
+<tr>
+<td><span class="crypto"><img src="../crypto/eth.svg" alt="kurz etherea"><a href="/kurzy-kryptomen/">Ethereum</a></span></td>
+<td><span>ETH</span></td>
+<td><span id="price-ethusdt"></span> $</td>
+<td><span id="change24hr-ethusdt"></span> $</td>
+<td><span id="24hr-ethusdt"></span> %</td>
+<td><span id="low24hr-ethusdt"></span> $</td>
+<td><span id="middle24hr-ethusdt"></span> $</td>
+<td><span id="high24hr-ethusdt"></span> $</td>
+</tr>
+<tr class="colored">
+<td><span class="crypto"><img src="../crypto/solana.svg" alt="kurz solana"><a href="/kurzy-kryptomen/">Solana</a></span></td>
+<td><span>SOL</span></td>
+<td><span id="price-solusdt"></span> $</td>
+<td><span id="change24hr-solusdt"></span> $</td>
+<td><span id="24hr-solusdt"></span> %</td>
+<td><span id="low24hr-solusdt"></span> $</td>
+<td><span id="middle24hr-solusdt"></span> $</td>
+<td><span id="high24hr-solusdt"></span> $</td></tr>
+<tr>
+<td><span class="crypto"><img src="../crypto/bnb.svg" alt="kurz binance coin"><a href="/kurzy-kryptomen/">Binance Coin</a></span></td>
+<td><span>BNB</span></td>
+<td><span id="price-bnbusdt"></span> $</td>
+<td><span id="change24hr-bnbusdt"></span> $</td>
+<td><span id="24hr-bnbusdt"></span> %</td>
+<td><span id="low24hr-bnbusdt"></span> $</td>
+<td><span id="middle24hr-bnbusdt"></span> $</td>
+<td><span id="high24hr-bnbusdt"></span> $</td>
+</tr>
+<tr class="colored">
+<td><span class="crypto"><img src="../crypto/xrp.svg" alt="kurz ripple"><a href="/kurzy-kryptomen/">Ripple</a></span></td>
+<td><span>XRP</span></td>
+<td><span id="price-xrpusdt"></span> $</td>
+<td><span id="change24hr-xrpusdt"></span> $</td>
+<td><span id="24hr-xrpusdt"></span> %</td>
+<td><span id="low24hr-xrpusdt"></span> $</td>
+<td><span id="middle24hr-xrpusdt"></span> $</td>
+<td><span id="high24hr-xrpusdt"></span> $</td>
+</tr>
+<tr>
+<td><span class="crypto"><img src="../crypto/doge.svg" alt="kurz dogecoin"><a href="/kurzy-kryptomen/">Dogecoin</a></span></td>
+<td><span>DOGE</span></td>
+<td><span id="price-dogeusdt"></span> $</td>
+<td><span id="change24hr-dogeusdt"></span> $</td>
+<td><span id="24hr-dogeusdt"></span> %</td>
+<td><span id="low24hr-dogeusdt"></span> $</td>
+<td><span id="middle24hr-dogeusdt"></span> $</td>
+<td><span id="high24hr-dogeusdt"></span> $</td>
+</tr>
+<tr class="colored">
+<td><span class="crypto"><img src="../crypto/ada.svg" alt="kurz kardano"><a href="/kurzy-kryptomen/">Cardano</a></span></td>
+<td><span>ADA</span></td>
+<td><span id="price-adausdt"></span> $</td>
+<td><span id="change24hr-adausdt"></span> $</td>
+<td><span id="24hr-adausdt"></span> %</td>
+<td><span id="low24hr-adausdt"></span> $</td>
+<td><span id="middle24hr-adausdt"></span> $</td>
+<td><span id="high24hr-adausdt"></span> $</td>
+</tr>
+<tr>
+<td><span class="crypto"><img src="../crypto/usdc.svg" alt="kurz u.s. dollar coin"><a href="/kurzy-kryptomen/">U.S. Dollar Coin</a></span></td>
+<td><span>USDC</span></td>
+<td><span id="price-usdcusdt"></span> $</td>
+<td><span id="change24hr-usdcusdt"></span> $</td>
+<td><span id="24hr-usdcusdt"></span> %</td>
+<td><span id="low24hr-usdcusdt"></span> $</td>
+<td><span id="middle24hr-usdcusdt"></span> $</td>
+<td><span id="high24hr-usdcusdt"></span> $</td>
+</tr>
+<tr class="colored">
+<td><span class="crypto"><img src="../crypto/shibainu.svg" alt="kurz shiba inu"><a href="/kurzy-kryptomen/">Shiba Inu</a></span></td>
+<td><span>SHIB</span></td>
+<td><span id="price-shibusdt"></span> $</td>
+<td><span id="change24hr-shibusdt"></span> $</td>
+<td><span id="24hr-shibusdt"></span> %</td>
+<td><span id="low24hr-shibusdt"></span> $</td>
+<td><span id="middle24hr-shibusdt"></span> $</td>
+<td><span id="high24hr-shibusdt"></span> $</td>
+</tr>
+<tr>
+<td><span class="crypto"><img src="../crypto/ltc.svg" alt="kurz litecoin"><a href="/kurzy-kryptomen/">Litecoin</a></span></td>
+<td><span>LTC</span></td>
+<td><span id="price-ltcusdt"></span> $</td>
+<td><span id="change24hr-ltcusdt"></span> $</td>
+<td><span id="24hr-ltcusdt"></span> %</td>
+<td><span id="low24hr-ltcusdt"></span> $</td>
+<td><span id="middle24hr-ltcusdt"></span> $</td>
+<td><span id="high24hr-ltcusdt"></span> $</td>
+</tr>
+<tr><td><div class="hc_text">&nbsp;&nbsp;&nbsp;&nbsp; * Kurzy kryptoměn jsou aktualizovány v reálném čase.</div></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+<tr><td></td></tr>
+</tbody>
+</table>
+<div class="offer">
+<a class="allproducts" href="/kurzy-kryptomen/">Zobrazit více kryptoměn</a>
+</div>
+</div>
+<div class="clear"></div>
+<h2 class="rateboxonl2"><span>Zprávy</span> - Finance / Ekonomika</h2>
+<div class="clear"></div>
+<div class="zpravy_home">
+<div class="zpravybox1">
+<div class="over_listok3">
+<div class="z_h_zdroj"><span>Kurzy.cz</span></div>
+<div class="zpravy_home_link"><span>23:25:50</span><a href="zpravy-finance-ekonomika/">
+Raketový růst ceny bitcoinu: Začíná nový vzestupný trend, nebo býci lezou do pasti?</a>
+</div><div class="zpravy_home_link"><span>20:11:50</span><a href="zpravy-finance-ekonomika/">
+Zlato zastavuje růst, ale na jak dlouho?</a>
+</div><div class="zpravy_home_link"><span>18:56:29</span><a href="zpravy-finance-ekonomika/">
+4 Důvody, proč jsou americké akciové trhy stále rizikové</a>
+</div><a class="zpravy_vice" href="/zpravy-finance-ekonomika/">Zobrazit více >></a>
+<div class="z_h_zdroj"><span>Akcie.cz</span></div>
+<div class="zpravy_home_link"><span>01:00:00</span><a href="zpravy-finance-ekonomika/#akciecz">
+</a>
+</div><div class="zpravy_home_link"><span>01:00:00</span><a href="zpravy-finance-ekonomika/#akciecz">
+</a>
+</div><div class="zpravy_home_link"><span>01:00:00</span><a href="zpravy-finance-ekonomika/#akciecz">
+</a>
+</div><a class="zpravy_vice" href="/zpravy-finance-ekonomika/#akciecz">Zobrazit více >></a><div class="z_h_zdroj"><span>Aktualne.cz</span></div>
+<div class="zpravy_home_link"><span>06:10:29</span><a href="zpravy-finance-ekonomika/#aktualnecz">
+Praha už není ta "bohatá". Příspěvěk na bydlení se opět mění, spočítejte si jak</a>
+</div><div class="zpravy_home_link"><span>16:02:28</span><a href="zpravy-finance-ekonomika/#aktualnecz">
+Třicet let české koruny. Centrální banka je oslaví populární výměnou bankovek</a>
+</div><div class="zpravy_home_link"><span>09:36:00</span><a href="zpravy-finance-ekonomika/#aktualnecz">
+Extrémní chudoba i bohatství rostou současně. Miliardáři v krizi ještě zbohatli</a>
+</div><a class="zpravy_vice" href="/zpravy-finance-ekonomika/#aktualnecz">Zobrazit více >></a>
+</div>
+</div>
+<div class="zpravybox2">
+<div class="over_listok3">
+<div class="z_h_zdroj"><span>Penize.cz</span></div>
+<div class="zpravy_home_link"><span>06:01:00</span><a href="zpravy-finance-ekonomika/#penizecz">
+Předčasný důchod 2023. Kdy můžu jít a komu se vyplatí</a>
+</div><div class="zpravy_home_link"><span>17:00:00</span><a href="zpravy-finance-ekonomika/#penizecz">
+Praha dohání zpoždění. Jízdenku si koupíte kartou i v autobusech</a>
+</div><div class="zpravy_home_link"><span>13:20:00</span><a href="zpravy-finance-ekonomika/#penizecz">
+Paušální daň letos využije 100 tisíc podnikatelů</a>
+</div><a class="zpravy_vice" href="/zpravy-finance-ekonomika/#penizecz">Zobrazit více >></a>
+<div class="z_h_zdroj"><span>Podnikatel.cz</span></div>
+<div class="zpravy_home_link"><span>06:00:00</span><a href="zpravy-finance-ekonomika/#podnikatelcz">
+Nezdanitelné části základu daně pro rok 2022 a 2023 a jejich změny</a>
+</div><div class="zpravy_home_link"><span>15:59:12</span><a href="zpravy-finance-ekonomika/#podnikatelcz">
+Rušíte živnost? Nezapomeňte se odhlásit od daně z příjmů</a>
+</div><div class="zpravy_home_link"><span>14:33:18</span><a href="zpravy-finance-ekonomika/#podnikatelcz">
+Paušální daň bude letos odvádět až 100 tisíc OSVČ</a>
+</div><a class="zpravy_vice" href="/zpravy-finance-ekonomika/#podnikatelcz">Zobrazit více >></a><div class="z_h_zdroj"><span>Euro.cz</span></div>
+<div class="zpravy_home_link"><span>14:28:16</span><a href="zpravy-finance-ekonomika/#eurocz">
+Nejsilnější pas mají Japonci. Češi jsou na sedmém místě, bezvízově se dostaneme do 186 destinací</a>
+</div><div class="zpravy_home_link"><span>11:11:26</span><a href="zpravy-finance-ekonomika/#eurocz">
+Slibovali růst a ten se nyní dostavil. BiQ Group získala většinový podíl v brněnské vývojářské firmě PUXdesign</a>
+</div><div class="zpravy_home_link"><span>09:00:00</span><a href="zpravy-finance-ekonomika/#eurocz">
+Zdravotní pojištění: Jak se mění podmínky a platby pojistného na rok 2023?</a>
+</div><a class="zpravy_vice" href="/zpravy-finance-ekonomika/#eurocz">Zobrazit více >></a>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div class="banky_nadpis">České banky - <span>kódy bank,</span><div class="banky_sep"></div> swift a bic kódy</div>
+<div class="banky_box">
+<table class="banky">
+<tbody>
+<tr><th>Název banky</th><th>Kód banky</th><th>Označení banky</th><th>SWIFT kód, BIC kód</th></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr class="colored"><td>Air Bank</td><td>3030</td><td>AIRA</td><td>AIRA CZ PP</td></tr>
+<tr><td>ČSOB (Československá obchodní banka)</td><td>0300</td><td>ČSOB</td><td>CEKO CZ PP</td></tr>
+<tr class="colored"><td>ČS (Česká spořitelna)</td><td>0800</td><td>GIBA</td><td>GIBA CZ PX</td></tr>
+<tr><td>Fio banka, a.s.</td><td>2010</td><td>FIO</td><td>FIOBCZPP</td></tr>
+<tr class="colored"><td>ZUNO BANK AG, organizační složka</td><td>2310</td><td>ZUNO</td><td>ZUNOCZPPXXX</td></tr>
+<tr><td>RB (Raiffeisenbank)</td><td>5500</td><td>RB</td><td>RZBC CZ PP</td></tr>
+<tr class="colored"><td>Expobank</td><td>4000</td><td>EXPO</td><td>EXPN CZ PP</td></tr>
+<tr><td>ČSOB spořitelna (ČSOB Stavební spořitelna)</td><td>7960</td><td>ČSOB</td><td>CEKO CZ PP</td></tr>
+<tr class="colored"><td>Citi (Citibank)</td><td>2600</td><td>CITI</td><td>CITI CZ PX</td></tr>
+<tr><td>MONETA Money Bank, a.s.</td><td>0600</td><td>MONETA</td><td>AGBA CZ PP</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer"><a class="allproducts" href="/ceske-banky-kody-bank/">Všechny České banky</a></div>
+</div>
+<div class="valdev"></div>
+<div class="ads_home2">
+<div class="szm_ads">
+<div class="szm_box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529110511079045" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2529110511079045" data-ad-slot="3046596787" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+<div class="clear"></div>
+<div class="banky_nadpis">Směnárny a <span>směnárenské služby</span><div class="banky_sep"></div> - 849 subjektů</div>
+<div class="banky_box">
+<table class="banky">
+<thead>
+<tr><th>Směnárna</th>
+<th>Ulice / Číslo</th>
+<th>PSČ</th>
+<th>Město</th>
+</thead>
+<tbody id="show_product">
+<tr><td>GRANDHOTEL PUPP Karlovy Vary </td><td> Mírové náměstí 316/2 </td><td><span class="no_text">PSČ: </span> 36001 </td><td> Karlovy Vary</td></tr><tr><td>COOP Plzeň, družstvo </td><td> Poděbradova 1389/31 </td><td><span class="no_text">PSČ: </span> 30100 </td><td> Plzeň</td></tr><tr><td>ZÁLESÍ a.s. </td><td> Uherskobrodská 119 </td><td><span class="no_text">PSČ: </span> 76326 </td><td> Luhačovice</td></tr><tr><td>Dvorak Spa & Wellness a.s. </td><td> Svatopluka Čecha 1077/25 </td><td><span class="no_text">PSČ: </span> 41002 </td><td> Lovosice</td></tr><tr><td>Parkhotel Golf Mariánské Lázně, a. s. </td><td> 580 </td><td><span class="no_text">PSČ: </span> 35301 </td><td> Mariánské Lázně</td></tr><tr><td>Galerie Klatovy </td><td> 1 </td><td><span class="no_text">PSČ: </span> 34021 </td><td> Klenová</td></tr><tr><td>Univerzita Karlova </td><td> Ovocný trh 560/5 </td><td><span class="no_text">PSČ: </span> 11000 </td><td> Praha</td></tr><tr><td>Vienna House Diplomat Prague a.s. </td><td> Evropská 370/15 </td><td><span class="no_text">PSČ: </span> 16000 </td><td> Praha</td></tr><tr><td>Město Staré Město </td><td> nám. Osvobození 166 </td><td><span class="no_text">PSČ: </span> 78832 </td><td> Staré Město</td></tr><tr><td>AVE a.s. </td><td> Pod Barvířkou 747/6 </td><td><span class="no_text">PSČ: </span> 15000 </td><td> Praha</td></tr></tbody>
+</table>
+<div class="clear"></div>
+<div class="offer"><a class="allproducts" href="/smenarny-ceska-republika/">Všechny Směnárny</a></div>
+</div>
+<div class="banky_nadpis">Evropské <span>Národní Banky</span></div>
+<div class="banky_box">
+<table class="banky">
+<tbody>
+<tr><th>Banka</th><th>Země</th><th>SWIFT<span class="eu_hide"> kód</span>, BIC kód</th><th>Město</th></tr>
+<tr class="colored"><td>Evropská Centrální Banka</td><td>Německo</td><td>ECBFDEFFEUM</td><td>Frankfurt nad Mohanem</td></tr>
+<tr><td>Banca d’Italia</td><td>Itálie</td><td>CAMBITRR</td><td>Řím</td></tr>
+<tr class="colored"><td>National Bank of Belgium</td><td>Belgie</td><td>NBBEBEBBEOC</td><td>Brusel</td></tr>
+<tr><td>Eesti Pank</td><td>Estonsko</td><td>EPBEEE2XTGT</td><td>Talin</td></tr>
+<tr class="colored"><td>Central Bank of Cyprus</td><td>Kypr</td><td>CBCYCY2NACC</td><td>Nikósie</td></tr>
+<tr><td>Suomen Pankki</td><td>Finsko</td><td>SPFBFIHHXXX</td><td>Helsinky</td></tr>
+<tr class="colored"><td>Česká národní banka</td><td>Česká Republika</td><td>CNBACZPP</td><td>Praha</td></tr>
+<tr><td>Banque de France</td><td>Francie</td><td>BDFEFRPPXXX</td><td>Paříž</td></tr>
+<tr class="colored"><td>Maďarsko</td><td>Magyar Nemzeti Bank</td><td>MANEHUHBXXX</td><td>Budapešť</td></tr>
+<tr><td>Polsko</td><td>Narodowy Bank Polski</td><td>NBPLPLPW</td><td>Varšava</td></tr>
+</tbody>
+</table>
+<div class="offer"><a class="allproducts" href="/evropske-narodni-banky/">Všechny národní banky</a></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="introleft">
+<div class="banky_nadpis"><span>Online</span> Banky</div>
+<div class="bankybox">
+<table class="banky">
+<thead>
+<tr><th>Banka</th><th>Poplatky</th><th>Karty</th></tr>
+</thead>
+<tbody>
+<tr><td></td><td></td><td></td></tr>
+<tr class="colored"><td>N26</td><td>0.5%</td><td>1P / ∞V*</td></tr>
+<tr><td>Zen</td><td>0.99 € - 4.99 €</td><td>1P / ∞V*</td></tr>
+<tr class="colored"><td>Soldo</td><td>0 € / 10 &#163;</td><td>1P / 20V *</td></tr>
+<tr><td>Wittix</td><td>0 € / 15 - 50 €</td><td>1P / 1V *</td></tr>
+<tr class="colored"><td>Monese</td><td>0 &#163; / 14.95 &#163;</td><td>1P / ∞V *</td></tr>
+<tr><td>Wise</td><td>0 € / 7.50 $</td><td>1P / 3V *</td></tr>
+<tr class="colored"><td>Revolut</td><td>2,99 € / 13,99 €</td><td>1P / 3V *</td></tr>
+<tr><td>Bunq</td><td>2.99 € / 20.99 €</td><td>1P / 1V *</td></tr>
+<tr class="colored"><td>Monzo</td><td>0 € / 15 &#163;</td><td>1P / 5V *</td></tr>
+<tr><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+<div class="offer">
+<a class="allproducts" href="/online-a-virtualni-banky/">Zobrazit více</a>
+</div>
+</div>
+</div>
+<div class="introright"><div class="mega3"></div>
+<div class="evrbank"></div>
+<div class="banky_nadpis">Evropské banky - <span>kódy bánk,</span><div class="banky_sep"></div> swift a bic kódy</div>
+<div class="bankybox">
+<table class="banky">
+<tbody>
+<tr><th>Krajina</th><th>Počet</th></tr>
+<tr><td></td><td></td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" alt="Nemecké banky" src="flags/ger.svg"></span><a href="/kody-bank-swift-a-bic-kody/germany.php">Německo</a></td><td>8518*</td></tr>
+<tr><td><span class="listok_img"><img rel="preload" alt="Francúzske banky" src="flags/fr.svg"></span><a href="/kody-bank-swift-a-bic-kody/france.php">Francie</a></td><td>4924*</td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" alt="Talianske banky" src="flags/it.svg"></span><a href="/kody-bank-swift-a-bic-kody/italy.php">Itálie</a></td><td>26259*</td></tr>
+<tr><td><span class="listok_img"><img rel="preload" alt="Španielske banky" src="flags/spain.svg"></span><a href="/kody-bank-swift-a-bic-kody/spain.php">Španělsko</a></td><td>933</td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" alt="Rakúske banky" src="flags/austria.svg"></span><a href="/kody-bank-swift-a-bic-kody/austria.php">Rakousko</a></td><td>1191*</td></tr>
+<tr><td><span class="listok_img"><img rel="preload" alt="České banky" src="flags/czk.svg"></span><a href="/kody-bank-swift-a-bic-kody/czech-republic.php">Česká republika</a></td><td>148</td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" alt="Portugalské banky" src="flags/portugal.svg"></span><a href="/kody-bank-swift-a-bic-kody/portugal.php">Portugalsko</a></td><td>253</td></tr>
+<tr><td><span class="listok_img"><img rel="preload" alt="Švédske banky" src="flags/sweden.svg"></span><a href="/kody-bank-swift-a-bic-kody/sweden.php">Švédsko</a></td><td>523</td></tr>
+<tr class="colored"><td><span class="listok_img"><img rel="preload" alt="Dánske banky" src="flags/dkk.svg"></span><a href="/kody-bank-swift-a-bic-kody/denmark.php">Dánsko</a></td><td>611</td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
+<div class="clear"></div>
+<div class="offer"><a class="allproducts" href="/kody-bank-swift-a-bic-kody/">Všechny SWIFT, BIC kódy</a></div>
+</div>
+</div>
+<div class="clear"></div>
+<div style="background:#fafafa;width:auto;height:30px;"></div>
+<div class="clear"></div>
+<div class="ads_home">
+<div class="szm_ads">
+<div class="szm_box">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2529110511079045" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2529110511079045" data-ad-slot="3046596787" data-ad-format="auto" data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div></div>
+<div class="clear"></div>
+<div class="introleft">
+<h1 class="onl">Valuty</h1>
+<div class="clear"></div>
+<p class="valutydevizy">
+<b>Valuty</b> jsou peněžní prostředky cizích měn ve formě bankovek a mincí. Jedná se o hotovost v cizí měně, kterou kupujeme a prodáváme ve formě fyzických prostředků.
+<br><br>Banky i směnárny uvádějí v kurzovních lístcích tři druhy kurzů valut.
+<br>Valuty Nákup, Valuty Střed a Valuty Prodej.
+<br>
+<br><b>Valuta Nákup</b> - Cizí měna v hotovosti, za kterou od Vás banky a směnárny koupí cizí měnu za eura.
+<br><b>Valuta Prodej</b> - Cizí měna v hotovosti, za kterou Vám banky a směnárny prodají cizí měnu za eura.
+</p>
+</div>
+<div class="valdev"></div>
+<div class="introright">
+<h2 class="onl">Devizy</h2>
+<div class="clear"></div>
+<p class="valutydevizy">
+<b>Devizy</b> jsou bezhotovostní finanční prostředky v cizí měně na vašich bankovních účtech. Jedná se o účty vedené v cizí měně, ze kterých prodáváte či nakupujete cizí měnu.
+<br><br>Při devizách banky a směnárny uvádějí v kurzovních lístcích tři druhy kurzů.
+<br>Devizy Nákup, Devizy Střed a Devizy Prodej.
+<br>
+<br><b>Devizy Nákup</b> - Cizí měna, za kterou od Vás banky a směnárny koupí cizí měnu v bezhotovostní transakci.
+<br><b>Devizy Prodej</b> - Cizí měna, za kterou Vám banky a směnárny prodají cizí měnu v bezhotovostní transakci.
+</p>
+</div>
+<div class="clear"></div>
+<div style="height:60px"></div>
+<div id="footer">
+<div class="f_home"></div>
+<div class="footer_block">
+<div class="f_block">
+<div class="f_logo">
+<a href="https://kurzovnilistek.eu"><span class="euro2"></span>kurzovní<span class="f_orange">lístek</span></a>
+</div>
+<div class="clear"></div>
+<span class="f_flag"></span><a class="f_contact" href="https://kurzovylistok.eu" rel="external">Slovensko</a><div class="clear"></div>
+<span class="f_mail"></span><a class="f_contact" href="/kontakt/">Kontakt</a>
+<div class="clear"></div>
+<span class="f_mapa"></span><a class="f_contact" href="/mapa-stranek/">Mapa stránek</a><div class="clear"></div>
+<span class="f_copy"></span><div class="f_text">2023</div>
+</div>
+<div class="f_links">
+<div class="f_block1">
+<div class="f_title">Seznamy</div><div class="clear"></div>
+<a href="/kody-bank-swift-a-bic-kody/">SWIFT/BIC kódy</a><div class="clear"></div>
+<a href="/evropske-narodni-banky/">Evropské banky</a><div class="clear"></div>
+</div>
+<div class="f_block1">
+<div class="f_title">Ostatní</div><div class="clear"></div>
+<a href="/prevodnik-men/">Převodník měn</a><div class="clear"></div>
+<a href="/iban-kalkulacka-generator/">IBAN kalkulačka</a><div class="clear"></div>
+</div>
+<div class="f_block2">
+<div class="f_title">Kurzy</div><div class="clear"></div>
+<a href="/kurzovni-listek/">Kurzovní lístek</a><div class="clear"></div>
+<a href="/archiv-kurzu/">Archiv Kurzů</a><div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="f_bottom">
+Made with <span class="f_space"></span>
+<svg class="heart" viewBox="0 0 32 29.6">
+<path d="M23.6,0c-3.4,0-6.3,2.7-7.6,5.6C14.7,2.7,11.8,0,8.4,0C3.8,0,0,3.8,0,8.4c0,9.4,9.5,11.9,16,21.2
+    c6.1-9.3,16-12.1,16-21.2C32,3.8,28.2,0,23.6,0z" />
+</svg> in Slovakia
+</div>
+</div>
+</div>
+<script>
+$(document.body).ready(() => {
+  $(document).on('click', (o) => {
+    if ($('.more_top, .arrow_down2, .arrow_down, .nav_up, .viac').is(o.target) || $('.more_top').has(o.target).length !== 0) {
+      if ($('.arrow_down2, .arrow_down, .nav_up, .viac').is(o.target) && $('.more_top').css('display') != 'none') return $('.more_top').slideUp('slow'), $('.nav_up').addClass('close'), $('.arrow_down2').addClass('close'), void $('.arrow_down').addClass('close'); $('.more_top').slideDown('slow'), $('.nav_up').removeClass('close'), $('.arrow_down2').removeClass('close'), $('.arrow_down').removeClass('close');
+    } else $('.more_top').slideUp('slow'), $('.nav_up').addClass('close'), $('.arrow_down2').addClass('close'), $('.arrow_down').addClass('close');
+  });
+});
+</script>
+<script>
+$(".m_down2").click(function() { 
+    $("#searcher").toggle("slow");
+  });
+</script>
+<script>
+
+
+$(document).ready(() => {
+  $(document).on('click', (o) => {
+    if ($('.lang2, .lang_img img, .lang_arrow').is(o.target) || $('.lang2').has(o.target).length !== 0) {
+      if ($('.lang_img img, .lang_arrow').is(o.target) && $('.lang2').css('display') != 'none') return $('.lang2').slideUp('slow'), $('.lang_img img').addClass('close'), void $('.lang_arrow').addClass('close'); $('.lang2').slideDown('slow'), $('.lang_img img').removeClass('close'), $('.lang_arrow').removeClass('close');
+    } else $('.lang2').slideUp('slow'), $('.lang_img img').addClass('close'), $('.lang_arrow').addClass('close');
+  });
+});
+</script>
+</body>
+</html>
